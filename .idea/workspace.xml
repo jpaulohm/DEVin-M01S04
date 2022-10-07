@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49934bd2-2236-4d48-bb32-b01e0057455f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tech/devinhouse/Exercicios/HerancaEPoliformismo/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/devinhouse/Exercicios/HerancaEPoliformismo/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tech/devinhouse/Exercicios/HerancaEPoliformismo/Operavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tech/devinhouse/Exercicios/Sobrescrita/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tech/devinhouse/Exercicios/Sobrescrita/Gerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
